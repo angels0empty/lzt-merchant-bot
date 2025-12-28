@@ -1,0 +1,6 @@
+aiogram==2.25.2
+aiohttp
+aiosqlite
+fastapi
+uvicorn
+python-dotenv
